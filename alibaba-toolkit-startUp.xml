@@ -1,0 +1,23 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/opensource/brcc" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource/cas-4.1.10" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource/gpmall" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource/opensource-demo/onemall" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource/opensource-demo/openwebflow" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource/opensource-demo/spring-cloud-alibaba" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource/spring-cloud-alibaba" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource/spring-cloud-alibaba/nacos" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource/spring-data-examples" startUpFlag="FIRST" />
+    <entry projectPath="D:/work/broadcast" startUpFlag="FIRST" />
+    <entry projectPath="D:/work/cas" startUpFlag="FIRST" />
+    <entry projectPath="D:/work/cas-4.1.10" startUpFlag="FIRST" />
+    <entry projectPath="D:/work/common-parent" startUpFlag="FIRST" />
+    <entry projectPath="D:/work/housekeeper" startUpFlag="FIRST" />
+    <entry projectPath="D:/work/jsonmedia-gims" startUpFlag="FIRST" />
+    <entry projectPath="D:/work/jsonmedia-gims/jsonmedia-gims" startUpFlag="FIRST" />
+    <entry projectPath="D:/work/mimo" startUpFlag="FIRST" />
+    <entry projectPath="E:/BaiduNetdiskDownload/44_库存服务代码调试以及打印日志观察服务的运行流程是否正确/代码/eshop-inventory" startUpFlag="FIRST" />
+  </component>
+</application>
